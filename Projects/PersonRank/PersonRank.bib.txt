@@ -1,0 +1,6 @@
+@article{Li2017PersonRank,
+  title={PersonRank: Detecting Important People in Images},
+  author={Li, Wei-Hong and Li, Benchao and Zheng, Wei-Shi},
+  journal={arXiv preprint arXiv:1711.01984},
+  year={2017}
+}
