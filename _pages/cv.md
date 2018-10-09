@@ -1,59 +1,32 @@
 ---
-layout: archive
-title: "CV"
+title: "<center>Curriculum Vitae</center>"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+<br />
+
 {% include base_path %}
+
+
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Sept 2018 – present, 
+  * PhD student at the University of Edinburgh (UK).
+  * Supervised by [Prof. Hakan Bilen](http://homepages.inf.ed.ac.uk/hbilen/index.html)
+* Oct 2017 – March 2018, 
+  * Visiting PhD student at the Queen Mary University of London (UK).
+  * Supervised by [Prof. Sean Gong](http://www.eecs.qmul.ac.uk/~sgg/) and [Prof. Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/)
+* June 2015 – July 2018,
+  * M.Sc. in the School of Electronics and Information Technology at the Sun Yat-sen University (one of the top ten universities in China). 
+  * Supervised by [Prof. Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/).
+* September 2011 – June 2015,  GPA 3.8/4.0,
+  * B.Sc. in Intelligence Science and Technology, Sun Yat-sen University
+  * Thesis: Tracking Multiple Targets in Group Activity Scene.
+  * Supervised by [Prof. Wei-Shi Zheng](http://isee.sysu.edu.cn/~zhwshi/) from January 2015 to May 2015.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+[Curriculum Vitae](https://WeiHongLee.github.io/CV/CV_Wei-Hong%20Li.pdf)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
