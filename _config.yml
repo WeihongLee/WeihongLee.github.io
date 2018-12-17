@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wei-Hong Li"
 title_separator          : "-"
-name                     : &name "Wei-Hong Li"
+name                     : &name "Wei-Hong Li (李伟宏)"
 description              : &description "Postgraduate student in iSEE Lab at Sun Yat-Sen University & Visiting PhD student in Vision group at Queen Mary University of London & amateur bodybuilder."
 url                      : https://WeiHongLee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
