@@ -28,5 +28,13 @@ Education
   * Thesis: Tracking Multiple Targets in Group Activity Scene.
   * Supervised by [Prof. Wei-Shi Zheng](http://www.isee-ai.cn/~zhwshi/index.html) from January 2015 to May 2015.
 
+Teaching
+======
+* Teaching Assistant at University of Edinburgh, 2018-2019
+  * Image and Vision Computing
+  * Machine Learning Practice
+* Teaching Assistant at University of Edinburgh, 2019-2020
+  * Machine Learning Practice
+
 [Curriculum Vitae](https://WeiHongLee.github.io/CV/CV_Wei-Hong%20Li.pdf)
 
