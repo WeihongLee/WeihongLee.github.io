@@ -32,8 +32,8 @@ Teaching
 ======
 * Teaching Assistant at University of Edinburgh
   * Image and Vision Computing (IVC), 2018-19
-  * Machine Learning Practice (MLP), 2018-19
-  * Machine Learning Practice (MLP), 2019-20
+  * [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html) (MLP), 2018-19
+  * [Machine Learning Practical](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2019.html) (MLP), 2019-20
 
 [Curriculum Vitae](https://WeiHongLee.github.io/CV/CV_Wei-Hong%20Li.pdf)
 
