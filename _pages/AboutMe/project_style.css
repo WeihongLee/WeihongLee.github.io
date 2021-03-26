@@ -284,7 +284,8 @@ p.contacts{
   color: #ecf0f1;
 }
 .navbar .navbar-link:hover {
-  color: #a1c0d4;
+  /*color: #a1c0d4;*/
+  color: #a51417;
 }
 
 @media (max-width: 767px) {
