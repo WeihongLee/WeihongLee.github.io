@@ -34,7 +34,7 @@ Teaching
   * Image and Vision Computing (IVC), 2018-19
   * [Machine Learning Practical (MLP), 2018-19](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2018.html)
   * [Machine Learning Practical (MLP), 2019-20](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2019.html)
-  * Image and Vision Computing (IVC), 2020-21
+  <!-- * Image and Vision Computing (IVC), 2020-21 -->
   * [Machine Learning Practical (MLP), 2020-21](http://www.inf.ed.ac.uk/teaching/courses/mlp/index-2019.html)
 
 [Curriculum Vitae](https://WeiHongLee.github.io/CV/CV_Wei-Hong%20Li.pdf)
