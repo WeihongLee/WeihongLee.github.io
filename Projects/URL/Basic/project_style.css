@@ -46,6 +46,7 @@
 
 .lead {
     font-size: 19px;
+    color: mix(#fff, #041E42, 20%);
 }
 
 .featurette {
@@ -187,7 +188,6 @@
 h1 {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 36px;
-    color: mix(#000, #041E42, 40%);
 }
 
 h2 {
@@ -202,7 +202,6 @@ p {
 p.abstract {
 	font-size: 20px;
 	text-align: justify;
-    color: mix(#000, #041E42, 40%);
 }
 
 a:hover {
@@ -213,6 +212,7 @@ a:hover {
 p.university{
 	font-size: 22px;
 	/*font-weight: bold;*/
+    color: #041E42;
 }
 
 p.contacts{
@@ -222,6 +222,7 @@ p.contacts{
 .pointers {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
+    color: #041E42;
 	/*font-weight: bold;*/
 }
 
