@@ -286,7 +286,8 @@ p.contacts{
   color: mix(#fff, #041E42, 20%);
 }
 .navbar .navbar-link:hover {
-  color: #a1c0d4;
+  /*color: #a1c0d4;*/
+  color: mix(#fff, #041E42, 20%);
 }
 
 @media (max-width: 767px) {
