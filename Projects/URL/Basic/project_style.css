@@ -25,7 +25,8 @@
     font-size: 80px;
     background: #fff;
     background: rgba(255,255,255,0);
-    color: #fff;
+    /*color: #fff;*/
+    color: mix(#000, #041E42, 40%);
 }
 
 .headline h2 {
