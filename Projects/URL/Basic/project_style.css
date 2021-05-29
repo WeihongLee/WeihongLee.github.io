@@ -205,7 +205,7 @@ p.abstract {
 
 a:hover {
     /*color: #2980b9;*/
-    color: #041E42;
+    color: mix(#000, #041E42, 40%);
     text-decoration:underline;
 }
 
@@ -253,7 +253,7 @@ p.contacts{
 }
 .navbar .navbar-text {
   /*color: #ecf0f1;*/
-  color: #041E42;
+  color: mix(#000, #041E42, 40%);
 }
 .navbar .navbar-nav > li > a {
   color: #ecf0f1;
@@ -284,22 +284,25 @@ p.contacts{
 }
 .navbar .navbar-link {
   /*color: #ecf0f1;*/
-  color: #041E42;
+  color: mix(#fff, #041E42, 20%);
 }
 .navbar .navbar-link:hover {
   /*color: #a1c0d4;*/
-  color: #041E42;
+  color: mix(#fff, #041E42, 20%);
 }
 
 @media (max-width: 767px) {
   .navbar .navbar-nav .open .dropdown-menu > li > a {
-    color: #ecf0f1;
+    /*color: #ecf0f1;*/
+    color: mix(#fff, #041E42, 20%);
   }
   .navbar .navbar-nav .open .dropdown-menu > li > a:hover, .navbar .navbar-nav .open .dropdown-menu > li > a:focus {
-    color: #a1c0d4;
+    /*color: #a1c0d4;*/
+    color: mix(#fff, #041E42, 20%);
   }
   .navbar .navbar-nav .open .dropdown-menu > .active > a, .navbar .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
-    color: #a1c0d4;
+    /*color: #a1c0d4;*/
+    color: mix(#fff, #041E42, 20%);
     background-color: #3277ae;
   }
 }
