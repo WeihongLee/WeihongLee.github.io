@@ -282,7 +282,8 @@ p.contacts{
   border-color: #ecf0f1;
 }
 .navbar .navbar-link {
-  color: #ecf0f1;
+  /*color: #ecf0f1;*/
+  color: mix(#fff, #041E42, 20%);
 }
 .navbar .navbar-link:hover {
   color: #a1c0d4;
