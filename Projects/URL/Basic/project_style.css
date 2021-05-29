@@ -204,7 +204,8 @@ p.abstract {
 }
 
 a:hover {
-    color: #2980b9;
+    /*color: #2980b9;*/
+    color: mix(#000, #041E42, 40%);
     text-decoration:underline;
 }
 
